@@ -199,9 +199,6 @@ function mousePressed() {
   isMousePressed = true;
 }
 
-function mouseReleased() {
-  // Set the flag to false when the mouse is released
-  isMousePressed = true;
-}
+
  
 
